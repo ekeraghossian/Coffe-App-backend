@@ -1,12 +1,12 @@
-package com.coffee.CoffeeBackend;
+package com.fontys.coffeeapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CoffeeBackendApplication {
+public class CoffeeAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CoffeeBackendApplication.class, args);
+		SpringApplication.run(CoffeeAppApplication.class, args);
 	}
 }
